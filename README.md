@@ -4,4 +4,4 @@ used: zsh + zimrc + p10k
 
 ## my custom zsh config v-1.0
 
-<img src="C:\Users\WyjFrogi\Pictures\Screenshots\2023-12-18 215543.png" style="zoom:35%;" />
+<img src="https://github.com/WyjFrogi/my-zsh-config/blob/master/2023-12-18%20215543.png" style="zoom:35%;" />
